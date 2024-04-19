@@ -1,7 +1,7 @@
 Hi, I’m Audrey Pilar
--  I’m interested in the Sciences and food!
--  I’m currently a Pre-med Forensic Sciences Major with minors in Chemistry and Data Science, Analytics and Visulization
--  I’m looking to collaborate on anything in regards to healthcare, medicine or enviornmental
+-  I’m currently a Forensic Sciences Major on the pre-medicine track with minors in Chemistry and Data Science, Analytics and Visualizations
+-  My interests include Pathology, Diseases and anything within the sciences
+-  I’m looking to collaborate on anything concerning healthcare, medicine or environmental topics
 -  How to reach me: (e) alynnepilar@gmail.com
 
 <!---
